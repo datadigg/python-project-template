@@ -11,7 +11,7 @@ pip install cookiecutter
 ### 2. 创建项目
 
 ```bash
-cookiecutter http://git.tendata.com.cn/tendata/bigdata/python-project-template.git
+cookiecutter https://github.com/datadigg/python-project-template.git
 ```
 根据提示输入项目基础信息配置
 
